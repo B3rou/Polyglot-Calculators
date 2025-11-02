@@ -49,4 +49,4 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 | Calculator Name | Programmin Language | Contributors |
 | :--- | :--- | :--- |
 | `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
-| `SimpleCalculator-Python` | C | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
+| `SimpleCalculator-Python` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
