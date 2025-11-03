@@ -22,6 +22,7 @@ You can contribute:
 - Bug fixes or optimization changes  
 
 Every valid calculator that runs successfully will be merged ✅
+
 Please don't solve every issues by yourself, leave some for others ⭐
 
 ---
