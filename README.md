@@ -54,3 +54,5 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 | `TemperatureConverter-Java` | Java | [@Ayden939](https://github.com/Ayden939) |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee)  |
 | `DataStorageConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
+| `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
+| `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) / [@B3rou](https://github.com/B3rou) |
