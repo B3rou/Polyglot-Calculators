@@ -17,11 +17,11 @@ Anyone can:
 
 ## 🛠️ How to Contribute
 1. **Fork** this repository  
-2. Create a new folder named after your project  
-   > Example: `SimpleCalculator-C/`, `ScientificCalculator-Python/`, or `GraphingCalculator-JS/`
-3. Add your source files inside (Adding README.md will appreciated)  
-4. Make sure your calculator runs properly  
-5. Open a **Pull Request** describing your addition  
+2. Find the right category for your calculator (e.g., `Science/`, `Simple Calculators/`, `Health/`). 
+3. Create a new folder for your project inside that category." "Example: `Science/AreaCalculator-Python-YourGithubName/` or `Daily Life/CookingConverter-C-YourGithubName/`
+4. Add your source files inside (Adding README.md will appreciated)  
+5. Make sure your calculator runs properly  
+6. Open a **Pull Request** describing your addition  
 
 All valid calculators will be reviewed and merged 💫
 
@@ -47,11 +47,13 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is  9!
+Current Unique Contributor Amount is  14!
 
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
-| `SimpleCalculator-C` | C | [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculator-C-B3rou` | C | [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculator-C-chEfInHO0` | C | [@chEfInHO0](https://github.com/chEfInHO0) |
+| `SimpleCalculator-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
 | `SimpleCalculator-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
 | `SimpleCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculator-Java` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
@@ -59,6 +61,7 @@ Current Unique Contributor Amount is  9!
 | `SimpleCalculator-C++` | C++ | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
 | `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
+| `TemperatureConverter-JavaScript-Bkeefe901` | JavaScript | [@Bkeefe901](https://github.com/Bkeefe901) |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee)  |
 | `DataStorageConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) / [@B3rou](https://github.com/B3rou) |
@@ -66,4 +69,5 @@ Current Unique Contributor Amount is  9!
 | `AreaCalculator-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
+| `OhmsLawCalculator-Python-NikhilYadav04` | Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
 | `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |

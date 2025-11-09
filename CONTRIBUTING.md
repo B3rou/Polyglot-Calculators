@@ -28,23 +28,24 @@ Every valid calculator that runs successfully will be merged ✅
 ## 📁 Folder Structure
 Please keep the repository organized by following this format:
 ```
-CalculatorName-Language-or-Type/
+CalculatorName-Language-or-Type-YourGithubName/
 │
 ├── main.<extension> # Your source code
 └── README.md # (Optional) Short description or usage guide (I'ld really appreciate if you'ld add one instead of me)
 ```   
 > Example:  
-> `SimpleCalculator-C/main.c`  
-> `ScientificCalculator-Python/main.py`  
+> `SimpleCalculator-C-B3rou/main.c`  
+> `ScientificCalculator-Python-B3rou/main.py`  
 
 ---
 
 ## 🧠 Contribution Steps
-1. **Fork** this repository  
-2. **Create** a folder for your calculator  
-3. **Commit** your code with a meaningful message  
-4. **Push** to your fork  
-5. **Open a Pull Request (PR)** with a short summary  
+1. **Fork** this repository   
+2. **Find** the right category for your calculator
+3. **Create** a folder for your calculator 
+4. **Commit** your code with a meaningful message  
+5. **Push** to your fork  
+6. **Open a Pull Request (PR)** with a short summary  
 
 ---
 
@@ -57,7 +58,7 @@ CalculatorName-Language-or-Type/
 
 ## 🧡 A Small Note
 This project welcomes contributions from **beginners to experts**.  
-Don’t worry if it’s your first pull request — everyone starts somewhere!
+Don’t worry if it’s your first pull request - everyone starts somewhere!
 
 ---
 
