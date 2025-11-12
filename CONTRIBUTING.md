@@ -43,9 +43,10 @@ CalculatorName-Language-or-Type-YourGithubName/
 1. **Fork** this repository   
 2. **Find** the right category for your calculator
 3. **Create** a folder for your calculator 
-4. **Commit** your code with a meaningful message  
-5. **Push** to your fork  
-6. **Open a Pull Request (PR)** with a short summary  
+4. **Commit** your code with a meaningful message
+5. **Add** your credit below the main README.md file
+6. **Push** to your fork  
+7. **Open a Pull Request (PR)** with a short summary  
 
 ---
 
