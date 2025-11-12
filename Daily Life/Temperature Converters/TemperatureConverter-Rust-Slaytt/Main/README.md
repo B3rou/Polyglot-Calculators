@@ -19,7 +19,7 @@ A simple command-line tool to convert between Celsius and Fahrenheit.
 2. Navigate to the project directory:
 3. And write cargo run in the terminal
    ```bash
-   cd TemperatureConverter-Rust-Slaytt/Main
+   cd Daily\ Life/Temperature\ Converters/TemperatureConverter-Rust-Slaytt/Main
    cargo run
 
 ## Example
