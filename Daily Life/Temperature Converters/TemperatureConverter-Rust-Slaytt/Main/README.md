@@ -19,18 +19,17 @@ A simple command-line tool to convert between Celsius and Fahrenheit.
 2. Navigate to the project directory:
 3. And write cargo run in the terminal
    ```bash
-   cd Daily\ Life/Temperature\ Converters/TemperatureConverter-Rust-Slaytt/Main
+   cd "Daily Life/Temperature Converters/TemperatureConverter-Rust-Slaytt"
    cargo run
-
+   
 ## Example
 
-Enter temperature: 25\
+Enter temperature: 25
 Choose a conversion:
 1. Fahrenheit to Celsius
 2. Celsius to Fahrenheit
-
-   2\
-   25.0°C is 77.0°F
+   2
+   25°C is 77°F
 
 ## Author
 Contributed by [Slaytt](https://github.com/Slaytt)
