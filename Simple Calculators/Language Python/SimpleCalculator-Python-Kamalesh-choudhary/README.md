@@ -10,7 +10,7 @@ This is a command-line calculator written in Python for evaluating basic mathema
 * **Input:** Accepts integers (positive and negative, e.g., `-5`).
 * **Precedence:** Follows a simplified Order of Operations (**Multiplication and Division** before **Addition and Subtraction**).
 * **Validation:** Includes checks for invalid syntax and handles **division by zero** errors.
-
+* **No Parentheses:** The program **wouldn't accept** inputs which includes **Parentheses**.
 ---
 
 ### How it Works
