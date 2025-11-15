@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **26**!
+Current Unique Contributor Amount is **27**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -90,7 +90,8 @@ Current Unique Contributor Amount is **26**!
 | `SimpleCalculatorCLI-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
 | `SimpleCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
 | `SimpleCalculatorCLI-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss)|
+| `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
+| `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
 | `SimpleCalculatorGUI-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculatorCLI-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
 | `SimpleCalculatorCLI-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |

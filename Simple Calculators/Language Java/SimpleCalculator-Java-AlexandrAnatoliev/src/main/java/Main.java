@@ -17,13 +17,13 @@ public class Main {
                 System.out.println(calculator.add());
             } else if(operator.equals("-")) {
                 System.out.println(calculator.sub());
-            } else if(operator.equals("*")) {
+            } else if(operator.equals("x")) {
                 System.out.println(calculator.mult());
             } else if(operator.equals("/")) {
                 System.out.println(calculator.div());
             } else {
                 System.out.println(
-                        "Use '+', '-', '*' or '/' operators");
+                        "Use '+', '-', 'x' or '/' operators");
             }
 
         }
