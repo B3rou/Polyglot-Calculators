@@ -25,7 +25,7 @@ java Main 2 x 4
 #### Files structure
 
 ```
-SimpleCalculator-Java-AlexandrAnatoliev/
+SimpleCalculatorCLI-Java-AlexandrAnatoliev/
 ├── bin/
 │   ├── main/
 │   └── test/
