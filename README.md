@@ -47,11 +47,13 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **28**!
+Current Unique Contributor Amount is **29**!
 
 
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
+| | | |
+| | | |
 | | | |
 | --- **🧪 Science** --- | | |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
@@ -67,12 +69,17 @@ Current Unique Contributor Amount is **28**!
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
 | | | |
+| | | |
+| | | |
 | --- **🌿 Health** --- | | |
 | `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
 | `BMICalculator-Cpp-avijitj14` | C++ | [@avijitj14](https://github.com/avijitj14) |
 | | | |
+| | | |
+| | | |
 | --- **🛠️ Utility / Daily Life** --- | | |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
+| `DurationConverter-Java-Avinash262718h` | Java| [@Avinash262718h](https://github.com/Avinash262718h) |
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
@@ -80,6 +87,8 @@ Current Unique Contributor Amount is **28**!
 | `CookingConverter-Python-xyzarnav` | Python | [@xyzarnav](https://github.com/xyzarnav) |
 | `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio) |
 | `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
+| | | |
+| | | |
 | | | |
 | --- **🧮 Simple Calculators** --- | | |
 | `SimpleCalculatorCLI-C-B3rou` | C | [@B3rou](https://github.com/B3rou) |
