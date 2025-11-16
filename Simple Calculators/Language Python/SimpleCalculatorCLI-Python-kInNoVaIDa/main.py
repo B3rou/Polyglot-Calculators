@@ -1,4 +1,3 @@
-
 # Example Usage:
 
 # ========== Calculator ========
@@ -26,7 +25,7 @@ def calculator():
                 if second != 0:
                     print("The result of your operation: {:.2f}".format(first / second))
                 else:
-                    print(0)
+                    print("Can't Divide by 0!")
 
 
 if __name__ == "__main__":
