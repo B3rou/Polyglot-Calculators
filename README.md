@@ -47,24 +47,13 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **21**!
+Current Unique Contributor Amount is **29**!
 
 
 | Calculator Name | Programming Language | Contributors |
 | :--- | :--- | :--- |
 | | | |
-| --- **🧮 Simple Calculators** --- | | |
-| `SimpleCalculator-C-B3rou` | C | [@B3rou](https://github.com/B3rou) |
-| `SimpleCalculator-C-chEfInHO0` | C | [@chEfInHO0](https://github.com/chEfInHO0) |
-| `SimpleCalculator-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
-| `SimpleCalculator-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculator-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
-| `SimpleCalculator-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss)|
-| `SimpleCalculator-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculator-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
-| `SimpleCalculator-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2)|
+| | | |
 | | | |
 | --- **🧪 Science** --- | | |
 | `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
@@ -75,17 +64,44 @@ Current Unique Contributor Amount is **21**!
 | `TemperatureConverter-Python-SimpleChap`| Python | [@SimpleChap](https://github.com/SimpleChap) |
 | `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `AreaCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
+| `AreaCalculator-C++-JordanDia` | C++ | [@JordanDia](https://github.com/JordanDia) |
 | `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
 | `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
 | | | |
+| | | |
+| | | |
 | --- **🌿 Health** --- | | |
 | `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
+| `BMICalculator-Cpp-avijitj14` | C++ | [@avijitj14](https://github.com/avijitj14) |
+| | | |
+| | | |
 | | | |
 | --- **🛠️ Utility / Daily Life** --- | | |
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
+| `DurationConverter-Java-Avinash262718h` | Java| [@Avinash262718h](https://github.com/Avinash262718h) |
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901)|
-| `CookingConverterSimple-Python` | Python | [@Akshad04](https://github.com/Akshad04) |
-| `CookingConverterCLI-Python` | Python | [@xyzarnav](https://github.com/xyzarnav) |
-| `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio)|
+| `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
+| `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
+| `CookingConverter-Python-Akshad04` | Python | [@Akshad04](https://github.com/Akshad04) |
+| `CookingConverter-Python-xyzarnav` | Python | [@xyzarnav](https://github.com/xyzarnav) |
+| `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio) |
+| `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
+| | | |
+| | | |
+| | | |
+| --- **🧮 Simple Calculators** --- | | |
+| `SimpleCalculatorCLI-C-B3rou` | C | [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculatorCLI-C-chEfInHO0` | C | [@chEfInHO0](https://github.com/chEfInHO0) |
+| `SimpleCalculatorCLI-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
+| `SimpleCalculatorCLI-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
+| `SimpleCalculatorCLI-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculatorCLI-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
+| `SimpleCalculatorCLI-Python-kInNoVaIDa` | Python | [@kInNoVaIDa](https://github.com/kInNoVaIDa) |
+| `SimpleCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
+| `SimpleCalculatorCLI-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
+| `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
+| `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
+| `SimpleCalculatorGUI-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
+| `SimpleCalculatorCLI-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
+| `SimpleCalculatorCLI-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
