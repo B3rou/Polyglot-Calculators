@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <strings.h>
 #include <errno.h>
+
+/* Cross-platform compatibility for strcasecmp() */
+#ifdef _WIN32
+    #define strcasecmp _stricmp
+#else
+    #include <strings.h>
+#endif
 
 const char *UNIT_SHORT[] = {"b", "B", "KB", "MB", "GB", "TB", "PB"};
 const char *UNIT_LONG[]  = {"Bits", "Bytes", "Kilobytes", "Megabytes", "Gigabytes", "Terabytes", "Petabytes"};
