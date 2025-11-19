@@ -47,7 +47,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **35**!
+Current Unique Contributor Amount is **36**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -83,7 +83,7 @@ Current Unique Contributor Amount is **35**!
 | `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DurationConverter-Java-Avinash262718h` | Java | [@Avinash262718h](https://github.com/Avinash262718h) |
 | `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
-| `DurationConverter-Python-MAXXIMUX12` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
+| `DurationConverter-Python-JuanManuel` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
 | `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
 | `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
 | `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
@@ -92,6 +92,8 @@ Current Unique Contributor Amount is **35**!
 | `CookingConverter-Cpp-JuanDRojas1004` | C++ | [@JuanDRojas1004](https://github.com/JuanDRojas1004) |
 | `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio) |
 | `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
+| `MassConverter-Python-SimpleChap` | Python | [@SimpleChap](https://github.com/SimpleChap) |
+| `MassConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
 | | | |
 | | | |
 | | | |
