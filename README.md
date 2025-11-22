@@ -48,7 +48,7 @@ If you like this initiative, **give it a ⭐** and help make this the ultimate o
 
 ## 🧰 Current Calculators
 
-Current Unique Contributor Amount is **41**!
+Current Unique Contributor Amount is **42**!
 
 
 | Calculator Name | Programming Language | Contributors |
@@ -120,5 +120,6 @@ Current Unique Contributor Amount is **41**!
 | `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
 | `SimpleCalculatorGUI-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
 | `SimpleCalculatorGUI-Web-MuskanSoni-Code` | Html/Js/Css | [@MuskanSoni-Code](https://github.com/MuskanSoni-Code) / [@B3rou](https://github.com/B3rou) |
+| `SimpleCalculatorGUI-Web-Audyari` | Html/Js/Css | [@Audyari](https://github.com/Audyari) |
 | `SimpleCalculatorCLI-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
 | `SimpleCalculatorCLI-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
