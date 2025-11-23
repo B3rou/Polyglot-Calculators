@@ -1,128 +1,130 @@
-# 🧮 Awesome Calculators
+# 🌐 **Polyglot-Calculators**
 
-A community-driven collection of **calculators** - from simple arithmetic programs to complex scientific or graphical ones.  
-Fork this repository and share your own calculator in **any language or style**!
+### A multi-language hub for mathematical engineering and learning
 
----
+This is both a school for learners and an exhibition hall for experts.
 
-## 💡 Purpose
-This project serves as an **open-source hub** for learning, exploring, and contributing calculator projects of all kinds.
-
-Anyone can:
-- Add their calculator (CLI, GUI, Web, etc.)
-- Learn different programming styles and logic
-- Discover how the same idea is implemented in multiple languages
+Polyglot-Calculators is a community-driven, modern hybrid project that showcases how mathematical calculators and algorithms are implemented across different programming languages.
 
 ---
 
-## 🛠️ How to Contribute
-1. **Fork** this repository  
-2. Find the right category for your calculator (e.g., `Science/`, `Simple Calculators/`, `Health/`). 
-3. Create a new folder for your project inside that category." "Example: `Science/AreaCalculator-Python-YourGithubName/` or `Daily Life/CookingConverter-C-YourGithubName/`
-4. Add your source files inside (Adding README.md will appreciated)  
-5. Make sure your calculator runs properly
-6. Add your credit in the table at the end of the main README.md file
-7. Open a **Pull Request** describing your addition  
+## 🚀 **What This Project Offers**
 
-All valid calculators will be reviewed and merged 💫
+Polyglot-Calculators is no longer just a code playground -- it is an *engineering showcase* and a *learning playground*.
 
----
+### 🏆 **Showcase**
 
-## 🧰 Example Projects
-- `SimpleCalculator-C-B3rou/` → Basic arithmetic calculator (C)
-- `SimpleCalculator-Java-B3rou/` → Basic arithmetic calculator (Java) (Yep, you can re-create with another language)
-- `ScientificCalculator-Python-B3rou/` → Handles trigonometric and logarithmic functions  
-- `GraphingCalculator-Web-B3rou/` → Web-based interactive calculator  
+A curated space containing high-quality, tested, advanced-level projects.
+Examples include:
 
----
+* Cryptography calculators
+* Scientific calculators
+* Matrix operation tools
+* Numerical analysis projects
 
-## 📜 License
-This project is licensed under the **MIT License** — meaning you’re free to use, modify, and share your work.
+### 🛝 **Playground**
 
----
+A beginner-friendly sandbox where making mistakes is part of the learning process.
 
-### 🌟 Join the Community
-If you like this initiative, **give it a ⭐** and help make this the ultimate open-source calculator hub!
+* Basic arithmetic calculators
+* "Good First Issue" contributions
+* Small Git practice tasks
+* Introductory algorithm examples
+
+Both sections are fully open to community contributions. Our goal is to help learners grow while giving experienced developers a place to display their engineering work.
 
 ---
 
-## 🧰 Current Calculators
+## 📁 **Repository Structure**
 
-Current Unique Contributor Amount is **45**!
+Below is the tree view showing the new hybrid model structure:
+> Just as an example...
+```txt
+Polyglot-Calculators/
+├── 🏆 Showcase/                
+│   ├── 🐍 Python/              
+│   │   ├── CryptoTool/
+│   │   └── DataAnalyzer/
+│   ├── ⚙️ C/
+│   │   └── MatrixEngine/
+│   └── ...
+│
+├── 🛝 Playground/              
+│   ├── 👤 B3rou/
+│   │   ├── TemperatureCalculator.py
+│   │   └── SimpleCalculator.c
+│   ├── 👤 Contributor1/
+│   │   └── SimpleGUICalculator.java
+│   ├── 👤 Contributor2/
+│   │   └── DistanceConverter.py
+│   │   └── BMI Calculator/
+│   │       └── BMICalculator.c
+│   └── README.md
+│
+├── .github/
+├── README.md
+└── CONTRIBUTING.md
+
+```
+
+Each language directory contains its own organized project subfolders.
+
+---
+
+## 🔧 **Getting Started / Contribution Guide**
+
+This project supports all experience levels -- choose the section that fits you!
+
+### 👉 **If You Are a Beginner:**
+
+* Start inside the `Playground/` directory.
+* Explore simple examples.
+* Make your first Pull Request.
+* Mistakes are expected here, this is your learning zone ☆
+
+### 👉 **If You Are Intermediate or Advanced:**
+
+* Browse the `Showcase/` section.
+* Add missing algorithms or improve existing ones.
+* Only properly structured and tested projects belong in this area.
+
+### 👉 **General Contribution Steps:**
+
+1. Fork the repository.
+2. Work on your feature or fix in a new branch.
+3. Submit a clear Pull Request.
+4. Join code discussions when needed.
+
+---
+
+## 🌍 **Supported Languages**
+
+This project is fully polyglot and welcomes contributions in many languages:
+
+* C
+* Python
+* Java
+* C++
+* JavaScript
+* And any additional languages contributed by the community
+
+---
+
+## 🤝 **Contributors**
+
+This section is reserved for the list of contributors who help shape this project.
+
+> ✨ *Want to join us? A single PR is enough!*
+
+<a href="https://github.com/B3rou/Polyglot-Calculators/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=B3rou/Polyglot-Calculators" />
+</a>
 
 
-| Calculator Name | Programming Language | Contributors |
-| :--- | :--- | :--- |
-| | | |
-| | | |
-| | | |
-| --- **🧪 Science & Math** --- | | |
-| `ScientificCalculator-Php-Hodemcsuk` | Php | [@Hodemcsuk](https://github.com/Hodemcsuk) |
-| `TemperatureConverter-Java-Ayden939` | Java | [@Ayden939](https://github.com/Ayden939) |
-| `TemperatureConverter-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
-| `TemperatureConverter-Cpp-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
-| `TemperatureConverter-JavaScript-Bkeefe901`| JavaScript | [@Bkeefe01](https://github.com/Bkeefe01) |
-| `TemperatureConverter-Rust-Slaytt` | Rust | [@Slaytt](https://github.com/Slaytt) |
-| `TemperatureConverter-Python-SimpleChap`| Python | [@SimpleChap](https://github.com/SimpleChap) |
-| `TemperatureConverter-Java-Electric-Centipede`| Java | [@Electric-Centipede](https://github.com/Electric-Centipede) |
-| `AreaCalculator-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `AreaCalculator-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
-| `AreaCalculator-C++-JordanDia` | C++ | [@JordanDia](https://github.com/JordanDia) |
-| `OhmsLawCalculator-Python-Daku3011` | Python | [@Daku3011](https://github.com/Daku3011) / [@B3rou](https://github.com/B3rou) |
-| `OhmsLawCalculator-Python-CrossGo14` | Python | [@CrossGo14](https://github.com/CrossGo14) / [@B3rou](https://github.com/B3rou) |
-| `OhmsLawCalculator-Python-NikhilYadav04`| Python | [@NikhilYadav04](https://github.com/NikhilYadav04) |
-| `Ohm-WaveCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
-| `BaseConverter-Python-calebjubal`| Python | [@calebjubal](https://github.com/calebjubal) |
-| `BaseConverter-Java-AlexandrAnatoliev`| Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
-| | | |
-| | | |
-| | | |
-| --- **🌿 Health** --- | | |
-| `BMICalculator-C-Daku3011` | C | [@Daku3011](https://github.com/Daku3011) |
-| `BMICalculator-Cpp-avijitj14` | C++ | [@avijitj14](https://github.com/avijitj14) |
-| `BMICalculator-Java-AleksandraSieg` | Java | [@AleksandraSieg](https://github.com/AleksandraSieg) |
-| | | |
-| | | |
-| | | |
-| --- **🛠️ Utility / Daily Life** --- | | |
-| `TimeZoneConverter-Python` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `DurationConverter-Java-Avinash262718h` | Java | [@Avinash262718h](https://github.com/Avinash262718h) |
-| `DurationConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
-| `DurationConverter-C++-abdllahmaher` | C++ | [@abdllahmaher](https://github.com/abdllahmaher) |
-| `DurationConverter-Python-JuanManuel` | Python | [@MAXXIMUX12](https://github.com/MAXXIMUX12) |
-| `DurationConverter-Python-Sockney89` | Python | [@Sockney89](https://github.com/Sockney89)|
-| `DataStorageConverter-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `DataStorageConverter-Python-jaideepkathiresan` | Python | [@jaideepkathiresan](https://github.com/jaideepkathiresan) |
-| `DataStorageConverter-Java-umer901` | Java | [@umer901](https://github.com/umer901) |
-| `DataStorageConverter-C-FozanShahid` | C | [@FozanShahid](https://github.com/FozanShahid) |
-| `CookingConverter-Python-Akshad04` | Python | [@Akshad04](https://github.com/Akshad04) |
-| `CookingConverter-Python-xyzarnav` | Python | [@xyzarnav](https://github.com/xyzarnav) |
-| `CookingConverter-Cpp-JuanDRojas1004` | C++ | [@JuanDRojas1004](https://github.com/JuanDRojas1004) |
-| `CryptoCalculator-Go-vishwasio` | Go | [@vishwasio](https://github.com/vishwasio) |
-| `DistanceConverter-Python-Jeevaanandh` | Python | [@Jeevaanandh](https://github.com/Jeevaanandh) |
-| `MassConverter-Java-SimpleChap` | Java | [@SimpleChap](https://github.com/SimpleChap) |
-| `MassConverter-Java-rohithgowda18` | Java | [@rohithgowda18](https://github.com/rohithgowda18) |
-| `MassConverter-Python-abarlow4944` | Python | [@abarlow4944](https://github.com/abarlow4944) |
-| | | |
-| | | |
-| | | |
-| --- **🧮 Simple Calculators** --- | | |
-| `SimpleCalculatorCLI-C-B3rou` | C | [@B3rou](https://github.com/B3rou) |
-| `SimpleCalculatorCLI-C-chEfInHO0` | C | [@chEfInHO0](https://github.com/chEfInHO0) |
-| `SimpleCalculatorCLI-C-gurbuzsuleyman` | C | [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) |
-| `SimpleCalculatorCLI-Python-Sujal2114` | Python | [@Sujal2114](https://github.com/Sujal2114) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculatorCLI-Python-ifauzeee` | Python | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculatorCLI-Python-Kamalesh-choudhary` | Python | [@Kamalesh-choudhary](https://github.com/Kamalesh-choudhary) |
-| `SimpleCalculatorCLI-Python-kInNoVaIDa` | Python | [@kInNoVaIDa](https://github.com/kInNoVaIDa) |
-| `SimpleCalculatorCLI-Python-wwohyzzh` | Python | [@wwohyzzh](https://github.com/wwohyzzh) |
-| `SimpleCalculatorCLI-Python-IsabellaRamirez28` | Python | [@IsabellaRamirez28](https://github.com/IsabellaRamirez28) |
-| `SimpleCalculatorGUI-Python-Avnoor000` | Python | [@Avnoor000](https://github.com/Avnoor000) |
-| `SimpleCalculatorGUI-Python-ASKotze` | Python | [@ASKotze](https://github.com/ASKotze) |
-| `SimpleCalculatorCLI-Java-yummyash` | Java | [@yummyash](https://github.com/yummyash) / [@B3rou](https://github.com/B3rou) (README.md file)|
-| `SimpleCalculatorCLI-Java-Perouvianoss` | Java | [@Perouvianoss](https://github.com/Perouvianoss) |
-| `SimpleCalculatorCLI-Java-AlexandrAnatoliev` | Java | [@AlexandrAnatoliev](https://github.com/AlexandrAnatoliev) |
-| `SimpleCalculatorGUI-Web-ifauzeee` | Html/Js/Css | [@ifauzeee](https://github.com/ifauzeee) |
-| `SimpleCalculatorGUI-Web-MuskanSoni-Code` | Html/Js/Css | [@MuskanSoni-Code](https://github.com/MuskanSoni-Code) / [@B3rou](https://github.com/B3rou) |
-| `SimpleCalculatorGUI-Web-Audyari` | Html/Js/Css | [@Audyari](https://github.com/Audyari) |
-| `SimpleCalculatorCLI-C++-Daku3011` | C++ | [@Daku3011](https://github.com/Daku3011) |
-| `SimpleCalculatorCLI-C++-Voyger2` | C++ | [@Voyger2](https://github.com/Voyger2) |
+---
+
+## 🎯 **Closing Note**
+
+Polyglot-Calculators is more than a repository -- it is a shared space for learning, teaching, and building. If you're passionate about mathematical algorithms or multi-language calculator implementations, you're in the right place.
+
+Let's start coding ☕🔥
