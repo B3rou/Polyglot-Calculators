@@ -6,9 +6,6 @@ import java.util.stream.Collectors;
 
 public class City {
     String cityName;
-    String RED = "\u001B[31m";
-    String YELLOW = "\u001B[33m";
-    String NC = "\u001B[0m";
 
     public City(String cityName) {
         this.cityName = cityName;
@@ -25,14 +22,15 @@ public class City {
             }
             else {
                 throw new IllegalArgumentException(
-                        YELLOW
+                        Colors.YELLOW
                         + "The time zone for the city "
                         + cityName
                         + " not found"
-                        + NC);
+                        + Colors.NOCOLOR);
             }
         } catch (Exception e) {
-            System.out.println(RED + "ERROR: "+ NC + e.getMessage());
+            System.out.println(
+                    Colors.RED + "ERROR: " + Colors.NOCOLOR + e.getMessage());
             return null;
         }
     }
