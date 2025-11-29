@@ -1,5 +1,5 @@
 # Description
-This is a duration converter, written in C++.
+This is a CLI duration converter, written in C++.
 It provides conversion to:
 - Seconds, sec
 - Minutes, min
@@ -10,25 +10,25 @@ It provides conversion to:
 ## Windows:
 - Compile the program using a C++ compiler. For example clang++:
 	```PowerShell
-	clang++ main.cpp -o main.exe
+	clang++ main.cpp Converter.cpp -o main.exe
 	```
-- Run the program:
+- Run the program with arguments to convert:
 	```PowerShell
-	./main.exe
+	./main.exe <value> <from unit> <to unit>
 	```
 	 
 ## Linux:
 - Compile the program using a C++ compiler. For example clang++:
 	```bash
-	clang++ main.cpp -o main
+	clang++ main.cpp Converter.cpp -o main
 	```
 - Run the program:
 	```bash
-	./main
+	./main <value> <from unit> <to unit>
 	```
 
 ## Example use:
 ```
-Enter count, from, to (supports: sec, min, hour, day): 120 min hour
-2
+./main 5 hour min
+300
 ```
