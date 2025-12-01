@@ -17,7 +17,9 @@ print(f"{source} to {target}")
 #conversion to one single source
 if source == target :
     converted_value = input_value
-if source == 'kilogram' :
+if source == 'gram' :
+    value_in_grams = input_value
+elif source == 'kilogram' :
     value_in_grams = input_value*1000.0
 elif source == 'pound' :
     value_in_grams = input_value*453.5
