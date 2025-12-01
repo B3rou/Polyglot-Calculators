@@ -32,9 +32,9 @@ if target == 'gram' :
 if target == 'kilogram' :
     converted_value = value_in_grams/1000.0
 elif target == 'pound' :
-    converted_value = input_value/453.5
+    converted_value = value_in_grams/453.5
 elif target == 'ounce' :
-    converted_value = input_value/28.3
+    converted_value = value_in_grams/28.3
 print(f"{input_value} {source} = {converted_value} {target}")
  
     
