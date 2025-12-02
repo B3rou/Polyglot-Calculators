@@ -121,3 +121,4 @@ debug.log
 .sass-cache/
 *.css.map
 *.js.map
+/.vs
