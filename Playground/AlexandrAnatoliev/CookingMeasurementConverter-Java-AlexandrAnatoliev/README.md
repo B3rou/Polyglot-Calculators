@@ -1,7 +1,8 @@
-# Cooking Measures Converter 
+# Cooking Measurement Converter 
 Simple utility to convert between common cooking measurements.
 
 > **Author:** Alexandr Anatoliev
+
 > **GitHub:** [AlexandrAnatoliev](https://github.com/AlexandrAnatoliev)
 
 ---
@@ -53,9 +54,9 @@ java Converter <arguments>
 java -cp bin Converter <arguments>
 ```
 * Input format:
-  - [value]       Value of user's product     
-  - [from units]  Units need to convert from     
-  - [to units]    Units need to convert to     
+  - [value]       The quantity to convert      
+  - [from units]  Source measurement unit (ml, cup, tbsp, tsp)      
+  - [to units]    Target measurement unit (ml, cup, tbsp, tsp)     
 ``` 
 [value] [from units] [to units]
 ``` 
@@ -67,10 +68,7 @@ java -cp bin Converter <arguments>
 java -cp bin/ Converter 1 cup tbsp
 1 cup = 16 tbsp
 ```
-```
-bin$ java TZConverter Moscow
-The time in Moscow is 22:06:56 on 28.11.2025 and its time zone is Europe/Moscow
-```
+
 ```
 java -cp bin/ Converter invalid input arguments
 
@@ -91,3 +89,4 @@ java -cp bin/ Converter 1 cup tbsp
 
 ## Requirements
 * Java 8 or higher
+* Terminal/console that supports ANSI colors codes

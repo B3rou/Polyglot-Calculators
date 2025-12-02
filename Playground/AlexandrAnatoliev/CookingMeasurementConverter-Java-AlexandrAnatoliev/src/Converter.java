@@ -1,5 +1,5 @@
 /**
-* Cooking Measures Converter 
+* Cooking Measurement Converter 
 * 
 * Simple utility to convert between common cooking measurements
 *
