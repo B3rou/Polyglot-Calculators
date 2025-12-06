@@ -3,14 +3,16 @@ import java.util.Map;
 
 public final class Main {
     // Stores all conversion factors with 'seconds' as the base unit.
-    private static final Map<String, Integer> map = Map.of(
-        "year", 31557600,
-        "month", 2629800, // Note: This is an average month
-        "week", 604800,
-        "day", 86400,
-        "hour", 3600,
-        "min", 60,
-        "sec", 1
+    private static final Map<String, Long> map = Map.of(
+        "century", 3155760000L, //Long literal for large numbers 'L' suffix has been added [otherwise error arises]
+        "decade", 315576000L,
+        "year", 31557600L,
+        "month", 2629800L, // Note: This is an average month
+        "week", 604800L,
+        "day", 86400L,
+        "hour", 3600L,
+        "min", 60L,
+        "sec", 1L
     );
 
     public static void main(String[] args) 
@@ -21,7 +23,7 @@ public final class Main {
         {
             
             System.out.println("=== Duration Converter ===");
-            System.out.println("Supported units: year, month, week, day, hour, min, sec.");
+            System.out.println("Supported units: century, decade, year, month, week, day, hour, min, sec.");
             System.out.println("Enter duration, from_unit, and to_unit (e.g., 2 hour min):");
             final long duration = sc.nextLong();
             final String from = sc.next().toLowerCase(); 
@@ -37,7 +39,7 @@ public final class Main {
             System.out.println(duration + " " + from + " = " + result + " " + to);
         } catch (Exception e) 
         {
-            System.err.println("Invalid input. Please enter a number followed by two units.");
+            System.err.println("Invalid input. Please enter a number followed by two units as per given instruction.");
         }
     }
 }
