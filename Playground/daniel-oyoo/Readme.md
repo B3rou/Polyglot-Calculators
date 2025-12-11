@@ -1,5 +1,5 @@
 # Simple Interest Calculator
-
+A beginner-friendly Java program that calculates simple interest and total amount using the standard mathematical formula. Perfect for learning Java basics, financial calculations, or educational purposes.
 ## features
 - Takes user input for principal, rate, and time
 - Calculates simple interest using the standard formula
