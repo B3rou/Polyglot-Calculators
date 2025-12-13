@@ -4,9 +4,9 @@ import java.util.Scanner; // Required for reading user input
  * The FullWordConverter class provides a command-line interface for converting
  * temperatures between Celsius, Fahrenheit, and Kelvin. This version uses
  * full names for units in the menu for improved clarity.
- * Temprature_converter
+ * TemperatureConverter
  */
-public class Temprature_converter {
+public class TemperatureConverter {
 
     // --- Conversion Methods ---
 

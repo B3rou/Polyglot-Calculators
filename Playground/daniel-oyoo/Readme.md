@@ -90,12 +90,12 @@ An advanced command-line Java application designed to perform temperature conver
 
 2. **Compile the Java file:**
    ```bash
-   javac Temprature_converter.java
+   javac TemperatureConverter.java
    ```
 
 3. **Execute the compiled class file:**
    ```bash
-   java Temprature_converter
+   java TemperatureConverter
    ```
 
 ### Sample Output
