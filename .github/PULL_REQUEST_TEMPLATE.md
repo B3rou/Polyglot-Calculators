@@ -1,20 +1,11 @@
----
-name: First Contribution
-about: Create a PR to request Merge your Awesome Work!
-title: ''
-labels: ''
-assignees: B3rou
-
----
-
-
 ## Description
 Please include a summary of the changes and the related issue.  
 List any dependencies that are required for this change.
 
 ---
 
-## Type of Change
+## Type of Change 
+> Simply add x if you'ld like to mark it :)
 - [ ] New feature/Calculator
 - [ ] Bug fix
 - [ ] Documentation update
@@ -30,11 +21,11 @@ List any dependencies that are required for this change.
 - [ ] I have added docstrings/comments where appropriate
 - [ ] My PR has a descriptive title
 
-// Not marking all of them is okay, just mark while comfortable with. ^^
-// We still accept all working, compilable contributions on Playground side. 
+> Not marking all of them is okay, just mark the ones you’re comfortable with.
+> We still accept all working, compilable contributions on Playground side. ^^ 
 
 ---
 
 ## Additional Notes
-Add any other context about the PR here.
+Would you like to tell something else to us? We're all ears!
 
