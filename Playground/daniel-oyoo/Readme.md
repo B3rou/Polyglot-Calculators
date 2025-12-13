@@ -86,7 +86,7 @@ An advanced command-line Java application designed to perform temperature conver
 
 ### How to Run
 
-1. **Save the Java source code** into a file named `Temprature_converter.java`
+1. **Save the Java source code** into a file named `TemperatureConverter.java`
 
 2. **Compile the Java file:**
    ```bash
@@ -124,7 +124,7 @@ polygot-calculators/
 │   ├── daniel-oyoo/
 │   │   ├── SimpleInterestCalculator.java     # Main Java source code
 │   │   ├── SimpleInterestCalculator.class    # Compiled bytecode (generated)
-│   │   ├── Temprature_converter.java         # Temperature converter source code
+│   │   ├── TemperatureConverter.java         # Temperature converter source code
 │   │   └── README.md                         # This documentation file
 │   │
 │   └── (other developer folders)/
