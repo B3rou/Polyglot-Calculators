@@ -3,9 +3,16 @@
 A modular, interactive multi-tool **cryptography calculator** written in Go.
 
 > **Author:** Vishwas Karode  
-> **GitHub:** [vishwasio](https://github.com/vishwasio)
+> **GitHub:** https://github.com/vishwasio
 
-This calculator allows users to compute hashes, HMACs, AES encryption/decryption, RSA signing and verification, Base64/Hex conversions, and file hashing — all through a clean interactive CLI.
+---
+
+## 📌 Overview
+
+Crypto Calculator is a command-line based cryptography toolkit written in Go.  
+It provides multiple cryptographic utilities such as hashing, HMAC, AES encryption/decryption, RSA operations, Base64/Hex encoding, and file hashing through an interactive menu.
+
+This project is designed to be modular, easy to extend, and suitable for learning and experimentation with cryptography in Go.
 
 ---
 
@@ -13,74 +20,79 @@ This calculator allows users to compute hashes, HMACs, AES encryption/decryption
 
 ### 🔐 Cryptographic Calculators
 
-- **Hash Calculator**
+- Hash Calculator
   - MD5, SHA1, SHA256, SHA512
-- **HMAC Calculator**
+- HMAC Calculator
   - HMAC-SHA1, HMAC-SHA256, HMAC-SHA512
-- **AES Calculator**
+- AES Calculator
   - AES-256-GCM encryption & decryption
-- **RSA Calculator**
-  - Key generation (2048-bit)
+- RSA Calculator
+  - 2048-bit key generation
   - Message signing (PSS)
   - Signature verification
-- **Base64 / Hex Calculator**
-  - Encode / Decode text
-- **File Hash Calculator**
-  - SHA256 & MD5 file integrity hashing
+- Base64 / Hex Calculator
+  - Encode and Decode text
+- File Hash Calculator
+  - MD5 and SHA256 hashing
 
 ---
 
 ## 📂 Project Structure
 
-    CryptoCalculator-Go-vishwasio/
-    │
-    ├── cmd/
-    │ └── CryptoCalculator-Go-vishwasio/
-    │ └── main.go
-    │
-    ├── internal/
-    │ ├── menu/
-    │ ├── input/
-    │ ├── utils/
-    │ ├── hashcalc/
-    │ ├── hmaccalc/
-    │ ├── aescalc/
-    │ ├── rsacalc/
-    │ ├── basecalc/
-    │ └── filehash/
-    │
-    └── go.mod
+CryptoCalculator-Go-vishwasio/
+│
+├── cmd/
+│ └── CryptoCalculator-Go-vishwasio/
+│ └── main.go
+│
+├── internal/
+│ ├── menu/
+│ ├── input/
+│ ├── utils/
+│ ├── hashcalc/
+│ ├── hmaccalc/
+│ ├── aescalc/
+│ ├── rsacalc/
+│ ├── basecalc/
+│ └── filehash/
+│
+└── go.mod
+
+yaml
+Copy code
+
+---
+
+## 🛠 Requirements
+
+- Go **1.22+**
+- Terminal with ANSI escape code support
 
 ---
 
 ## ▶️ Running the Application
 
-### Run directly:
+Run the application directly from source:
 
 ```bash
 go run ./cmd/CryptoCalculator-Go-vishwasio
+🧪 Running Tests
+Run all unit tests from the project root:
 
-```
+bash
+Copy code
+go test ./...
+Run tests with verbose output:
 
-### Run the standalone executable:
+bash
+Copy code
+go test -v ./...
+All tests use Go’s standard testing package and are structured for easy extension.
 
-```bash
-Windows:
-
-CryptoCalculator.exe
-
-Linux/Mac:
-
-./CryptoCalculator
-```
-
-> "To run the standalone executalbe, use this command(s) in the same directory as the file.
-
----
-
-🌟 Interactive CLI Preview
-
-                  CRYPTO CALCULATOR (v1)
+🌟 CLI Preview
+markdown
+Copy code
+CRYPTO CALCULATOR (v1)
 
 Choose what you want to calculate:
 
@@ -92,21 +104,8 @@ Choose what you want to calculate:
 6. File Hash Calculator
 
 cls / clear) Clear the screen
-
-0 / exit) Exit the program
-
----
-
-## 🛠 Requirements
-
-Go 1.22+
-
-A terminal that supports ANSI escape codes (for clear screen)
-
----
-
-## 📈 Future Enhancements (v2+)
-
+0 / exit)    Exit the program
+📈 Future Enhancements
 AES-CBC, AES-CTR, ChaCha20-Poly1305
 
 RSA-OAEP encryption/decryption
@@ -117,16 +116,11 @@ PBKDF2 / Scrypt / Argon2
 
 File encryption/decryption
 
-Key export/import
+Key import/export
 
 Colorful TUI interface
 
-Plugin system
+Plugin-based calculator system
 
----
-
-## 🤝 Contributing
-
+🤝 Contributing
 Contributions are welcome!
-
-Follow the project(s) contribution guidelines.
