@@ -3,7 +3,7 @@
 A modular, interactive multi-tool **cryptography calculator** written in Go.
 
 > **Author:** Vishwas Karode  
-> **GitHub:** https://github.com/vishwasio
+> **GitHub:** [@vishwasio](https://github.com/vishwasio)
 
 ---
 
@@ -39,6 +39,7 @@ This project is designed to be modular, easy to extend, and suitable for learnin
 
 ## 📂 Project Structure
 
+```
 CryptoCalculator-Go-vishwasio/
 │
 ├── cmd/
@@ -57,9 +58,7 @@ CryptoCalculator-Go-vishwasio/
 │ └── filehash/
 │
 └── go.mod
-
-yaml
-Copy code
+```
 
 ---
 
@@ -76,22 +75,25 @@ Run the application directly from source:
 
 ```bash
 go run ./cmd/CryptoCalculator-Go-vishwasio
+```
+
 🧪 Running Tests
 Run all unit tests from the project root:
 
-bash
-Copy code
+```bash
 go test ./...
+```
+
 Run tests with verbose output:
 
-bash
-Copy code
-go test -v ./...
+```bash
+go test -v ./... 
+```
+
 All tests use Go’s standard testing package and are structured for easy extension.
 
 🌟 CLI Preview
-markdown
-Copy code
+```
 CRYPTO CALCULATOR (v1)
 
 Choose what you want to calculate:
@@ -103,24 +105,33 @@ Choose what you want to calculate:
 5. Base64 / Hex Calculator
 6. File Hash Calculator
 
-cls / clear) Clear the screen
-0 / exit)    Exit the program
+cls / clear - Clear the screen
+0 / exit - Exit the program
+```
 📈 Future Enhancements
-AES-CBC, AES-CTR, ChaCha20-Poly1305
+- AES-CBC, AES-CTR, ChaCha20-Poly1305
 
-RSA-OAEP encryption/decryption
+- RSA-OAEP encryption/decryption
 
-SHA3 / BLAKE2 hashing
+- SHA3 / BLAKE2 hashing
 
-PBKDF2 / Scrypt / Argon2
+- PBKDF2 / Scrypt / Argon2
 
-File encryption/decryption
+- File encryption/decryption
 
-Key import/export
+- Key import/export
 
-Colorful TUI interface
+- Colorful TUI interface
 
-Plugin-based calculator system
+- Plugin-based calculator system
 
-🤝 Contributing
+## 🤝 Contributing
+
 Contributions are welcome!
+
+Follow the project(s) contribution guidelines.
+
+## 🤝 Contributors
+
+- [@vishwasio](https://github.com/vishwasio)
+- [@Weberpcc](https://github.com/Weberpcc)
