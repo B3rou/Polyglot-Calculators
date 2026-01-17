@@ -128,3 +128,16 @@ This section is reserved for the list of contributors who help shape this projec
 Polyglot-Calculators is more than a repository -- it is a shared space for learning, teaching, and building. If you're passionate about mathematical algorithms or multi-language calculator implementations, you're in the right place.
 
 Let's start coding ☕🔥
+
+## Contributing
+
+Contributions are welcome!  
+If you'd like to improve this project:
+
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Commit your changes with a clear message
+4. Push the branch to your fork
+5. Open a Pull Request
+
+Please make sure your changes follow the project guidelines.
