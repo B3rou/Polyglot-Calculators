@@ -11,19 +11,19 @@ import (
 
 // Reads non-empty input from user with validation and example
 func Prompt(message string, example string) string {
-    reader := bufio.NewReader(os.Stdin)
+	reader := bufio.NewReader(os.Stdin)
 
-    for {
-        fmt.Println(message)
-        fmt.Printf("Example: %s\n", example)
+	for {
+		fmt.Println(message)
+		fmt.Printf("Example: %s\n", example)
 
-        text, _ := reader.ReadString('\n')
-        text = strings.TrimSpace(text)
+		text, _ := reader.ReadString('\n')
+		text = strings.TrimSpace(text)
 
-        if text != "" {
-            return text
-        }
+		if text != "" {
+			return text
+		}
 
-        fmt.Println("Invalid input. Please try again.\n")
-    }
+		fmt.Println("Invalid input. Please try again.")
+	}
 }
