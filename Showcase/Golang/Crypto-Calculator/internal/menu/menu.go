@@ -22,7 +22,7 @@ func Start() {
 
 	for {
 		utils.Separator()
-		fmt.Printf("                  CRYPTO CALCULATOR (v1)")
+		fmt.Printf("                  CRYPTO CALCULATOR (v1)\n")
 		utils.Separator()
 
 		fmt.Printf(`
@@ -35,8 +35,8 @@ Choose what you want to calculate:
 5) Base64 / Hex Calculator
 6) File Hash Calculator
 
-cls / clear) Clear the screen
-0 / exit)    Exit the program
+cls / clear - Clear the screen
+0 / exit - Exit the program
 `)
 
 		fmt.Print("Enter your choice: ")
@@ -66,7 +66,7 @@ cls / clear) Clear the screen
 		case "clear", "cls":
 			fmt.Print("\033[H\033[2J") // Clears most terminals
 
-		case "0", "exit":
+		case "0", "exit", "q", "quit:
 			utils.Separator()
 			fmt.Println("Exiting program. Goodbye!")
 			utils.Separator()
