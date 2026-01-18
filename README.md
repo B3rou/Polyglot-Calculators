@@ -56,8 +56,8 @@ Polyglot-Calculators/
 │   ├── 👤 Contributor1/
 │   │   └── SimpleGUICalculator.java
 │   ├── 👤 Contributor2/
-│   │   └── DistanceConverter.py
-│   │   └── BMI Calculator/
+│   │   ├── DistanceConverter.py
+│   │   └── BMICalculator/
 │   │       └── BMICalculator.c
 │   └── README.md
 │
@@ -75,26 +75,31 @@ Each language directory contains its own organized project subfolders.
 
 This project supports all experience levels -- choose the section that fits you!
 
-### 👉 **If You Are a Beginner:**
+<details>
+  <summary><strong>👉 If You Are a Beginner:</strong></summary>
 
-* Start inside the `Playground/` directory.
-* Explore simple examples.
-* Make your first Pull Request.
-* Mistakes are expected here, this is your learning zone ☆
+  <br>
 
-### 👉 **If You Are Intermediate or Advanced:**
+  * Start inside the `Playground/` directory.
+  * Explore simple examples.
+  * Make your first Pull Request.
+  * Mistakes are expected here, this is your learning zone ☆
+  * Projects that improve enough over time may be promoted to the Showcase section -- growth and consistency matter here 💜
+</details>
 
-* Browse the `Showcase/` section.
-* Add missing algorithms or improve existing ones.
-* Only properly structured and tested projects belong in this area.
 
-### 👉 **General Contribution Steps:**
+<details>
+  <summary><strong>👉 If You Are Intermediate or Advanced:</strong></summary>
 
-1. Fork the repository.
-2. Work on your feature or fix in a new branch.
-3. Submit a clear Pull Request.
-4. Join code discussions when needed.
+  <br>
+  
+  * Browse the `Showcase/` section.
+  * Add missing algorithms or improve existing ones.
+  * Only properly structured and tested projects belong in this area.
+</details>
 
+> Join [the Discussions](https://github.com/B3rou/Polyglot-Calculators/discussions) when needed. We're here to help you! <br>
+> For Detailed Explanation about Contributing, please follow [here](https://github.com/B3rou/Polyglot-Calculators/blob/main/CONTRIBUTING.md)
 ---
 
 ## 🌍 **Supported Languages**
