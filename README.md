@@ -1,16 +1,16 @@
 # 🌐 **Polyglot-Calculators**
 
-### A multi-language hub for mathematical engineering and learning
+### A multi-language hub for mathematical engineering and learning projects
 
-This is both a school for learners and an exhibition hall for experts.
+This project serves both as a learning space for beginners and an exhibition hall for experienced developers.
 
-Polyglot-Calculators is a community-driven, modern hybrid project that showcases how mathematical calculators and algorithms are implemented across different programming languages.
+Polyglot-Calculators is a community-driven project showcasing how mathematical calculators and algorithms are implemented in multiple programming languages.
 
 ---
 
 ## 🚀 **What This Project Offers**
 
-Polyglot-Calculators is no longer just a code playground -- it is an *engineering showcase* and a *learning playground*.
+Polyglot-Calculators is more than a code playground — it is both an *engineering showcase* and *a learning space*.
 
 ### 🏆 **Showcase**
 
@@ -83,8 +83,8 @@ This project supports all experience levels -- choose the section that fits you!
   * Start inside the `Playground/` directory.
   * Explore simple examples.
   * Make your first Pull Request.
-  * Mistakes are expected here, this is your learning zone ☆
-  * Projects that improve enough over time may be promoted to the Showcase section -- growth and consistency matter here 💜
+  * Mistakes are expected — this is your safe learning zone☆
+  * Projects that improve over time may be promoted to the Showcase  section — growth and consistency matter 💜
 </details>
 
 
@@ -98,8 +98,8 @@ This project supports all experience levels -- choose the section that fits you!
   * Only properly structured and tested projects belong in this area.
 </details>
 
-> Join [the Discussions](https://github.com/B3rou/Polyglot-Calculators/discussions) when needed. We're here to help you! <br>
-> For Detailed Explanation about Contributing, please follow [here](https://github.com/B3rou/Polyglot-Calculators/blob/main/CONTRIBUTING.md)
+> Join [the Discussions](https://github.com/B3rou/Polyglot-Calculators/discussions) when needed — we're here to help! <br>
+> For Detailed Explanation about Contributing, please see [here](https://github.com/B3rou/Polyglot-Calculators/blob/main/CONTRIBUTING.md)
 ---
 
 ## 🌍 **Supported Languages**
@@ -132,4 +132,4 @@ This section is reserved for the list of contributors who help shape this projec
 
 Polyglot-Calculators is more than a repository -- it is a shared space for learning, teaching, and building. If you're passionate about mathematical algorithms or multi-language calculator implementations, you're in the right place.
 
-Let's start coding ☕🔥
+Let’s start coding together ☕🔥
