@@ -5,8 +5,7 @@ This repository is a **hybrid** space: it serves as both a learning sandbox for 
 
 ---
 
-## ‼️ Important First Step
-Before contributing, please make sure your Git is configured correctly so your profile picture appears in our contributors list!
+#### 💡 Tip: Make sure your Git username and email are configured correctly so your contribution appears in the contributors list.
 
 ```bash
 git config --global user.name "YourNickname"
